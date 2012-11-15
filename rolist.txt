@@ -68,6 +68,7 @@ ro##IFRAME[id^="ETARGET"]
 ro##[href*="/promo"]
 ro##DIV[id*="banner"]
 ro##trafic
+vplay.ro##div.dark-page-content div.center:nth-child(3)
 	
 !Whitelist
 @@||happyfish.ro^$document
